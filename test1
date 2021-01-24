@@ -1,1 +1,2 @@
-print('yo mama is fat')
+local string = 'FUCK YOU'
+print(string)
